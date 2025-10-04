@@ -6,14 +6,14 @@ const Experience = () => {
       title: "Junior Software Developer",
       company: "Alladeen Concept Pty Ltd",
       location: "Pretoria, Gauteng",
-      period: "May 2025 - Present",
-      description: "Current role focusing on web development and software solutions.",
+      period: "November 2024 - September 2025",
+      description: "Previous role focusing on web development and software solutions.",
       responsibilities: [
         "Web Development using modern frameworks",
         "Laravel (PHP Framework) development",
         "Blade template engine implementation"
       ],
-      type: "current"
+      type: "past"
     },
     {
       title: "Software Development Intern",
